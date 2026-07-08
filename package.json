@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^7.0.0",
-    "auto-svelte-pages": "^3.0.2",
+    "auto-svelte-pages": "^3.0.3",
     "prettier-plugin-svelte": "^3.5.1",
     "svelte": "^5.55.4",
     "vite": "^8.0.10"

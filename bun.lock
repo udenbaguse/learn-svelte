@@ -6,7 +6,7 @@
       "name": "learn-svelte",
       "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^7.0.0",
-        "auto-svelte-pages": "^3.0.2",
+        "auto-svelte-pages": "^3.0.3",
         "prettier-plugin-svelte": "^3.5.1",
         "svelte": "^5.55.4",
         "vite": "^8.0.10",
@@ -80,7 +80,7 @@
 
     "aria-query": ["aria-query@5.3.1", "", {}, "sha512-Z/ZeOgVl7bcSYZ/u/rh0fOpvEpq//LZmdbkXyc7syVzjPAhfOa9ebsdTSjEBDU4vs5nC98Kfduj1uFo0qyET3g=="],
 
-    "auto-svelte-pages": ["auto-svelte-pages@3.0.2", "", { "bin": { "auto-svelte-pages": "bin/auto-svelte-pages.js" } }, "sha512-wktRze//N17RG3QYWNJiWuVLvZRKjqt7mNkRsb0reL/4QstMx7G3QKy42LeaXb/K3ktUwpQkvBugXNoB728OcQ=="],
+    "auto-svelte-pages": ["auto-svelte-pages@3.0.3", "", { "bin": { "auto-svelte-pages": "bin/auto-svelte-pages.js" } }, "sha512-iQnHQDObvWoN8t3pqreSPPde5NCJ336mNdQ+Ejw2lVb44pSmZvIcpfGoAnTAwY+iKO3yNTyagjIpR0iJYagwmg=="],
 
     "axobject-query": ["axobject-query@4.1.0", "", {}, "sha512-qIj0G9wZbMGNLjLmg1PT6v2mE9AH2zlnADJD/2tC6E00hgmhUOfEB6greHPAfLRSufHqROIUTkw6E+M3lH0PTQ=="],
 
